@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanWilSE
 - 👀 I’m interested in connecting with experienced developers and learning changing technologies.
-- 🌱 I’m currently learning ES6, Responsive Design, NGINX, Express, and API's.
-- 💞️ I’m looking to collaborate on Gaming Apps, and Teaching Apps for Children.
+- 🌱 I’m currently learning React, Blockchain Technology, Express, and API's.
+- 💞️ I’m looking to collaborate on Web Developers, Software Developers and Teaching Apps for Children.
 - 📫 How to reach me: dwi@tech-center.com or Twitter: https://twitter.com/DanWilson_Tech1
 
 <!---
